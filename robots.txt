@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oochahsah.codingismy.trade/sitemap.xml
